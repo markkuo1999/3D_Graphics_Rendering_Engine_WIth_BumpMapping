@@ -1,4 +1,4 @@
-# CSCI580FinalProject
+# Improved Billboard Using Bump Mapping
 
 In the realm of computer graphics, optimizing rendering time is
 crucial, especially for tasks like PC gaming. Our paper introduces
